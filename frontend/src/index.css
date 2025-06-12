@@ -1,0 +1,16 @@
+body {
+  font-family: serif;
+  background-color: #9bbde0;
+  color: #2e2c2f;
+  margin: 0;
+  padding: 0;
+}
+
+.center-box {
+  background-color: #d0dded;
+  border-radius: 10px;
+  padding: 2rem;
+  max-width: 400px;
+  margin: 5rem auto;
+  text-align: center;
+}
